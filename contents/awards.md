@@ -1,16 +1,9 @@
+- Jinfa Technology Scholarship (ZZU), 2023
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Outstanding graduate student (ZZU), 2023
+  
+- Outstanding Volunteer during the COVID-19 Pandemic (ZZU), 2022
 
-- National Scholarship for Graduate Student, 2024.
+- Moral Model (SAU), 2021
 
-- First-Prize Scholarship (CUMT), 2024.
-
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- Top Ten Campus Stars (SAU), 2021

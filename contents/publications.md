@@ -1,16 +1,10 @@
-#### Submitted
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
-
 #### Published
+- <strong>Zifan Song</strong>, Zipeng Zhang, Xueting Zhang, Jingyang Liu, Wanjie Wang, Jianfeng Wang*, Xiuxiu Jin*. Hierarchically structured, Janus optical nanoengineered wastepaper for switchable radiative cooling/heating. <strong>Carbon Energy</strong>[[Paper]]（https://doi.org/10.1002/cey2.676）
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Mengke Shi#, <strong>Zifan Song#</strong>, Jiahao Ni#, Xingyuan Du, Yanxia Cao, Yanyu Yang, Wanjie Wang, Jianfeng Wang*, Dual-Mode Porous Polymeric Films with Coral-like Hierarchical Structure for All-day Radiative Cooling and Heating. <strong>ACS Nano</strong>[[Paper]](https://doi.org/10.1021/acsnano.2c07293)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Xueting Zhang, Ruiqi Yu, Mengyao Wang, <strong>Zifan Song</strong>, Xiangxin Li, Yadong Gao,Wanjie Wang* and Jianfeng Wang*, Antioxidative, low-concentration MXene inks with high-viscosity for infrared encryption and thermal energy harvesting. <strong>Journal of Materials Chemistry A</strong>[[Paper]](https://doi.org/10.1039/D4TA07312F)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Jiahao Ni, Bin Zhao, Zipeng Zhang, <strong>Zifan Song</strong>, Wanjie Wang, and Jianfeng Wang*, , Melt-Processed, One-Step, In Situ Hierarchically Structured Porous Polymer Nanocomposite for Radiative Cooling in Hot Weather. <strong>Small</strong>[[Paper]](https://doi.org/10.1002/smll.202500020)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Jiahao Ni, Yuxuan Zhang, <strong>Zifan Song</strong>, Ping Zhang, Yanxia Cao, Yanyu Yang, Wanjie Wang, Jianfeng Wang*, Salt-template-assisted melt-processed porous poly (vinylidene fluoride) nanocomposites for highly efficient all-day passive radiative cooling. <strong>Composites Part A: Applied Science and Manufacturing</strong>[[Paper]](https://doi.org/10.1016/j.compositesa.2022.107311)
