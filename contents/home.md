@@ -16,6 +16,6 @@ Email: curiouszf@foxmail.com
 
 
 #### Research Interests
-Radiative Thermal Management Applying in Polymer Materials
+Radiative Thermal Management Applying in Polymer Materials\
 Structural Regulation and Processing of Polymer Materials
 
