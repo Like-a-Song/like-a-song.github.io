@@ -1,6 +1,6 @@
 #### Published
 
-- <strong>Zifan Song</strong>, Zipeng Zhang, Xueting Zhang, Jingyang Liu, Wanjie Wang, Jianfeng Wang*, Xiuxiu Jin*. Hierarchically structured, Janus optical nanoengineered wastepaper for switchable radiative cooling/heating. <strong>Carbon Energy</strong>. (https://doi.org/10.1021/acsnano.2c07293)
+- <strong>Zifan Song</strong>, Zipeng Zhang, Xueting Zhang, Jingyang Liu, Wanjie Wang, Jianfeng Wang*, Xiuxiu Jin*. Hierarchically structured, Janus optical nanoengineered wastepaper for switchable radiative cooling/heating. <strong>Carbon Energy</strong>. (https://doi.org/10.1002/cey2.676)
 
 
 - Mengke Shi#, <strong>Zifan Song#</strong>, Jiahao Ni#, Xingyuan Du, Yanxia Cao, Yanyu Yang, Wanjie Wang, Jianfeng Wang*, Dual-Mode Porous Polymeric Films with Coral-like Hierarchical Structure for All-day Radiative Cooling and Heating. <strong>ACS Nano</strong>. (https://doi.org/10.1021/acsnano.2c07293)
